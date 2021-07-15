@@ -1,3 +1,6 @@
+This repository has been replaced by [php-fig/clock](https://github.com/php-fig/clock)
+---
+
 Clock Interface
 ===============
 
